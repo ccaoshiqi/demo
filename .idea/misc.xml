@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/../../springmvc01/code/preClass/springmvc01_01_hello" />
+    <file type="web" url="file://$PROJECT_DIR$/../../springmvc02/code/springmvc02" />
+    <file type="web" url="file://$PROJECT_DIR$/../../springmvc03/code/springmvc03" />
+    <file type="web" url="file://$PROJECT_DIR$/../../springmvc03/code/springmvc03_ssm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../springmvc03/code/springmvc03/pom.xml" />
+        <option value="$PROJECT_DIR$/../../springmvc03/code/springmvc03_ssm/pom.xml" />
+        <option value="$PROJECT_DIR$/../../ElasticSearch/code/esdemo2/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

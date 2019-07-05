@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.0.2.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../springmvc01/code/springmvc01/target/springmvc01-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.0.2.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
